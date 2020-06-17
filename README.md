@@ -59,7 +59,7 @@
 		   </ div >
         </ sección >
 		< div  align = " center " >
-		< embed  src = " C: \ Users \ karli \ Desktop \ Lerma \ assets \ img \ H2O LERMA.mp4 " width = " 900 " height = " 600 " >
+		< embed  src = " assets \ img \ H2O LERMA.mp4 " width = " 900 " height = " 600 " >
 		</ div >
 		
         <! - Proyectos ->
